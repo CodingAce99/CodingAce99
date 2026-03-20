@@ -20,7 +20,7 @@ Construyendo software que entiende los sistemas que gestiona.
 
 **[Infratrack](https://github.com/CodingAce99/infratrack)** — IT Infrastructure Inventory & Monitoring System
 
-Java 21 · Spring Boot 3.5 · Hexagonal Architecture · AES-256-GCM · 57 tests passing
+Java 21 · Spring Boot 3.5 · Hexagonal Architecture · AES-256-GCM · SSH Monitoring · 81 tests · CI/CD ✅
 
 ---
 
